@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: exa64x.github.io
+Token: 491732509babd997996319e23bd07e34ffbfc48abd70a6a0781384f56a9b7beb
